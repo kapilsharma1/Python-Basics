@@ -19,3 +19,22 @@ My experience and what I learned :-
  
 
 
+Folowing are the topics learnt in python :-
+- Numbers
+- Strings and slicing up strings
+- lists
+- if,elif,else statemnts
+- for,while loop
+- range 
+- break,continue
+- comments
+- functions
+- variable scope
+- dictionary
+- tuples
+- modules
+- lamda expressions
+- list comprehensions
+
+
+
