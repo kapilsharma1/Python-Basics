@@ -4,7 +4,7 @@ This is a repository created for GenY club SRM.
 
 My experience and what I learned :-
 
-1) Complted python programming assignments and projects on **dataquest.io.
+1) Complted python programming assignments and projects on **dataquest.io.**
 
 2) Took another python mooc and completed Level 1 projects and assignments.
    
