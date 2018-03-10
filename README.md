@@ -14,6 +14,8 @@ My experience and what I learned :-
      (GenY/methods_functions_assignment.ipynb)
    - Learnt object oriented python and concepts such as classes,methods,attributes,Inheritence,special methods.
      (GenY/object_oriented_assignment.ipynb)
+   - Learnt about errors and exceptions handling in python(try,except,finally) keywords.         
+     (GenY/errors_exceptions_handling_assignment.ipynb)
 
 3) Created my own **TIC TAC TOE GAME** in python.
    - Combined all the concepts learnt and made a fully interactive and working TIC TAC TOE GAME in python. (GenY/TIC_TAC_TOE_PROJECT.ipynb)
@@ -39,6 +41,7 @@ My experience and what I learned :-
 - lamda expressions
 - list comprehensions
 - OBJECT ORIENTED PYTHON
+- Errors and Exceptions handling
 
 
 
