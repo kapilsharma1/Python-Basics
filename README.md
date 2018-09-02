@@ -1,4 +1,4 @@
-# GenY
+# Python Basics
 
 This is a repository created for GenY club SRM.
 
