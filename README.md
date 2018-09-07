@@ -1,7 +1,5 @@
 # Python Basics
 
-This is a repository created for GenY club SRM.
-
 My experience and what I learned :-
 
 1) Complted python programming assignments and projects on **dataquest.io.**
